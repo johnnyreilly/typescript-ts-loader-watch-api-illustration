@@ -1,0 +1,16 @@
+{
+  "name": "vanilla",
+  "main": "index.js",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --progress --color",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "ts-loader": "^3.0.3",
+    "typescript": "^2.7.0-dev.20180120",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
