@@ -1,3 +1,7 @@
+# Update 23/01/2018
+
+With the [changes made](https://github.com/TypeStrong/ts-loader/pull/715) by @sheetalkamat for TypeScript 3.3.1 the issues reported here are resolved.
+
 # New Watch API issues illustration
 
 With TypeScript 2.7 support for the API is being exposed.  [This wonderful PR](https://github.com/TypeStrong/ts-loader/pull/685) by @sheetalkamat to ts-loader added support for the API to ts-loader.
